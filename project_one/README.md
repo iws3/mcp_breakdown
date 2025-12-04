@@ -4,7 +4,8 @@ This project demonstrates a Model Context Protocol (MCP) implementation using a 
 
 ## Project Structure
 
-<img width="989" height="725" alt="image" src="https://github.com/user-attachments/assets/6075ad76-b59c-44f5-83b7-60b649604c4b" />
+<img width="821" height="606" alt="image" src="https://github.com/user-attachments/assets/05737c46-7616-4bde-ad40-febdbc937759" />
+
 
 
 - `sqlite_server.py`: An MCP server that exposes tools to interact with a SQLite database (`data.db`).
