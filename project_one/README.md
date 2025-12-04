@@ -12,7 +12,7 @@ This project demonstrates a Model Context Protocol (MCP) implementation using a 
 ## Prerequisites
 
 - Python 3.10+
-- A Google Cloud API Key for Gemini
+- A Google Cloud API Key for Gemini 🤗
 
 ## Setup
 
