@@ -1,0 +1,8 @@
+llama-index
+llama-index-tools-mcp
+mcp
+ollama
+fastmcp
+llama-index-llms-ollama
+llama-index-llms-google-genai
+google-generativeai
