@@ -4,6 +4,9 @@ This project demonstrates a Model Context Protocol (MCP) implementation using a 
 
 ## Project Structure
 
+<img width="989" height="725" alt="image" src="https://github.com/user-attachments/assets/6075ad76-b59c-44f5-83b7-60b649604c4b" />
+
+
 - `sqlite_server.py`: An MCP server that exposes tools to interact with a SQLite database (`data.db`).
 - `gemini_client.py`: An AI agent using Google's Gemini 1.5 Flash model that connects to the MCP server to perform database operations.
 - `data.db`: The SQLite database file (created automatically).
