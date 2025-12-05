@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "agentic-rag": {
+      "command": "c:\\Users\\THE EYE INFORMATIQUE\\OneDrive\\Desktop\\All\\mcp_projects\\venv\\Scripts\\python.exe",
+      "args": [
+        "c:\\Users\\THE EYE INFORMATIQUE\\OneDrive\\Desktop\\All\\mcp_projects\\3_mcp_agentic-rag\\server.py"
+      ],
+      "env": {
+        "SERPAPI_API_KEY": "YOUR_SERPAPI_KEY_HERE",
+        "GOOGLE_API_KEY": "YOUR_GEMINI_KEY_HERE"
+      }
+    }
+  }
+}
