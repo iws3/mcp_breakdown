@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "financial-analyst": {
+      "command": "c:\\Users\\THE EYE INFORMATIQUE\\OneDrive\\Desktop\\All\\mcp_projects\\venv\\Scripts\\python.exe",
+      "args": [
+        "c:\\Users\\THE EYE INFORMATIQUE\\OneDrive\\Desktop\\All\\mcp_projects\\4_financial_analyst_mcp\\server.py"
+      ],
+      "env": {
+        "GOOGLE_API_KEY": "YOUR_GEMINI_KEY_HERE"
+      }
+    }
+  }
+}

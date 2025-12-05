@@ -1,0 +1,11 @@
+fastmcp
+crewai
+crewai-tools
+google-generativeai
+langchain-google-genai
+yfinance
+pandas
+matplotlib
+python-dotenv
+pydantic
+streamlit
