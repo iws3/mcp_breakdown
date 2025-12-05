@@ -1,4 +1,5 @@
 # MCP Financial Analyst & Educational Agent
+<img width="600" height="368" alt="image" src="https://github.com/user-attachments/assets/8a4c95b7-e260-435f-85e8-7437418e4c8c" />
 
 This project implements an **AI-Powered Financial Analyst** that combines:
 1.  **CrewAI**: For orchestrating multi-agent workflows (parsing queries, writing code).
